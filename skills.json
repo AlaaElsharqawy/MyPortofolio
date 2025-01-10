@@ -1,0 +1,66 @@
+[
+  {
+    "name": "HTML5",
+    "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+  },
+  {
+    "name": "CSS3",
+    "icon": "https://img.icons8.com/color/48/000000/css3.png"
+  },
+
+  {
+    "name": "Bootstrap",
+    "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+  },
+
+  {
+    "name": "JavaScript",
+    "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+  },
+
+  {
+    "name": "SqlServer",
+    "icon": "./assets/images/skills/icons8-sql-server-48.png"
+  },
+
+  {
+    "name": "C#",
+    "icon": "./assets/images/skills/icons8-c-48.png"
+  },
+  {
+    "name": "OOP",
+    "icon": "./assets/images/skills/oop.png"
+  },
+
+  {
+    "name": "LINQ",
+    "icon": "./assets/images/skills/linq.jpg"
+  },
+
+  {
+    "name": "EF Core",
+    "icon": "./assets/images/skills/EF.png"
+  },
+
+  {
+    "name": "Asp.Net MVC",
+    "icon": "./assets/images/skills/asp-mvc.jpg"
+  },
+
+  {
+    "name": "Type Script",
+    "icon": "./assets/images/skills/ts.png"
+  },
+  {
+    "name": "Asp.Net API",
+    "icon": "./assets/images/skills/aoi.png"
+  },
+  {
+    "name": "Git VCS",
+    "icon": "https://img.icons8.com/color/48/000000/git.png"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+  }
+]

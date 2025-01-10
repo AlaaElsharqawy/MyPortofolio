@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Devfolio",
+    "desc": "  Built using  HTML5 , CSS3 , Bootstrap 5.3 , JavaScript",
+    "image": "portofolio",
+    "category": "mern",
+    "links": {
+      "view": "https://alaaelsharqawy.github.io/Devfolio/",
+      "code": "https://github.com/AlaaElsharqawy/Devfolio.git"
+    }
+  },
+
+  
+
+  {
+    "name": "Crud Design",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "Operation",
+    "category": "mern",
+    "links": {
+      "view": "https://alaaelsharqawy.github.io/Crud-Design/",
+      "code": "https://github.com/AlaaElsharqawy/Crud-Design.git"
+    }
+  },
+  {
+    "name": "Weather-Forecast ",
+    "desc": " website is description weather for 3 days, built in HTML5 , CSS3 , Bootstrap 5.3 , JavaScript , ApiWeather ",
+
+    "image": "weatherlyandroid",
+    "category": "mern",
+    "links": {
+      "view": "https://alaaelsharqawy.github.io/Weather-Forecast/",
+      "code": "https://github.com/AlaaElsharqawy/Weather-Forecast.git"
+    }
+  },
+
+  {
+    "name": "Todo-List",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "todoList",
+    "category": "mern",
+    "links": {
+      "view": "https://alaaelsharqawy.github.io/Todo-List/",
+      "code": "https://github.com/AlaaElsharqawy/Todo-List.git"
+    }
+  },
+
+  {
+    "name": "Login Page",
+    "desc": "This website is specially build to Html ,css ,JavaScript",
+    "image": "login",
+    "category": "mern",
+    "links": {
+      "view": "https://alaaelsharqawy.github.io/Login-Page/",
+      "code": "https://github.com/AlaaElsharqawy/Login-Page.git"
+    }
+  },
+  {
+    "name": "Company",
+    "desc": "This website is specially build to MVC framework",
+    "image": "company",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/AlaaElsharqawy/Company.MVC.git",
+      "code": "https://github.com/AlaaElsharqawy/Company.MVC.git"
+    }
+  },
+
+  {
+    "name": "Book-Marker",
+    "desc": "This website is specially build to Html ,css ,Crud operation",
+    "image": "bookMarker",
+    "category": "mern",
+    "links": {
+      "view": "https://alaaelsharqawy.github.io/Book-Marker/",
+      "code": "https://github.com/AlaaElsharqawy/Book-Marker.git"
+    }
+  },
+
+
+  {
+    "name": "E-Commerce",
+    "desc": " E-Commerce project Built using ASP.NET Core Web API and JWT for authentication",
+    "image": "E-commerce",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/AlaaElsharqawy/E-Commerce.APIs.git",
+      "code": "https://github.com/AlaaElsharqawy/E-Commerce.APIs.git"
+    }
+  },
+
+  {
+    "name": "Game Zone",
+    "desc": "This website is specially build to MVC framework",
+    "image": "gameZone",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/AlaaElsharqawy/GameZone.git",
+      "code": "https://github.com/AlaaElsharqawy/GameZone.git"
+    }
+  },
+
+  {
+    "name": "Smiple-Examination-System",
+    "desc": "This website is specially build to only C#",
+    "image": "Exam",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/AlaaElsharqawy/Smiple-Examination-System.git",
+      "code": "https://github.com/AlaaElsharqawy/Smiple-Examination-System.git"
+    }
+  }
+
+
+]
